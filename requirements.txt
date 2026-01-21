@@ -1,2 +1,4 @@
 matplotlib
 platform
+seaborn
+pandas
