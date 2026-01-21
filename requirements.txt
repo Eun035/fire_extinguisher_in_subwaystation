@@ -2,3 +2,4 @@ matplotlib
 platform
 seaborn
 pandas
+streamlit
