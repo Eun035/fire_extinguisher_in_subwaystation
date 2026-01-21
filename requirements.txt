@@ -1,6 +1,2 @@
-matplotlib
-matplotlib.pyplot
 platform
-seaborn
 pandas
-streamlit
